@@ -1,0 +1,4 @@
+user-agent: *
+disallow: /downloads/
+
+sitemap: https://adriben.github.io/AdrienBenete_4_27082021/sitemap.xml
