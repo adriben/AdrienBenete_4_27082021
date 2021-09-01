@@ -829,6 +829,16 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation-ConvertImage.jpg");
 }
+@media (max-width: 770px){
+    .bg-banniere{
+        background-image: url("img/la-chouette-agence-banniere-mobile.jpg") ;
+        height: fit-content;
+        width: 100%;
+    }
+    .bg-presentation{
+        background-image: url("img/image-de-presentation-ConvertImage-mobile.jpg");
+    }
+    }
 
 @media (max-width: 1024px) {
     .bloc {
