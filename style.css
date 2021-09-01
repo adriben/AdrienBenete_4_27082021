@@ -829,17 +829,7 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation-ConvertImage.jpg");
 }
-@media (max-width: 800px){
-    .bg-banniere{
-        background-image: none;
-        background-color: #000000;
-        
-    }
-    .bg-presentation{
-        background-image: none;
-        background-color: #F3976C;
-    }
-    }
+
 
 @media (max-width: 1024px) {
     .bloc {
